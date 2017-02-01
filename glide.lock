@@ -1,5 +1,5 @@
 hash: a27287d2a9f5fd00efc3b06bd2b99bad765ac555d12511b6f5eed1c32e6bd9a8
-updated: 2017-01-17T16:01:21.929841349+08:00
+updated: 2017-02-01T14:25:37.314800566+08:00
 imports:
 - name: github.com/inconshreveable/mousetrap
   version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
@@ -26,7 +26,7 @@ imports:
 - name: github.com/xeipuuv/gojsonschema
   version: d5336c75940ef31c9ceeb0ae64cf92944bccb4ee
 - name: go4.org
-  version: 8c325b1c55e881d02e600d4e9a8069a48c924aa6
+  version: 7ce08ca145dbe0e66a127c447b80ee7914f3e4f9
   subpackages:
   - errorutil
 testImports: []
