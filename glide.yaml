@@ -1,19 +1,19 @@
 package: github.com/opencontainers/image-tools
 import:
 - package: github.com/opencontainers/go-digest
-  version: v1.0.0-rc0
+  version: v1.0.0-rc1
 - package: github.com/opencontainers/image-spec
   version: v1.0.0
   subpackages:
   - schema
   - specs-go/v1
 - package: github.com/opencontainers/runtime-spec
-  version: v1.0.0
+  version: v1.0.1
   subpackages:
   - specs-go
 - package: github.com/pkg/errors
   version: ~0.8.0
 - package: github.com/sirupsen/logrus
-  version: ~1.0.0
+  version: ~1.0.3
 - package: github.com/urfave/cli
-  version: ~1.19.1
+  version: ~1.20.0
